@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgary=self.webpackChunkgary||[]).push([[3426],{9659:a=>{a.exports=JSON.parse('{"permalink":"/Edward/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
